@@ -1,0 +1,92 @@
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , <e> protein calorie malnutrition </e> , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , <e> gastrointestinal hemorrhage </e> , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , <e> hypophosphatemia </e> .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , <e> orbital hemorrhage </e> , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , <e> hyperglycemia </e> , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , <e> renal insufficiency </e> , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , <e> hypopotassemia </e> , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , <e> chronic airway obstruction </e> , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , <e> atrial fibrillation </e> , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , <e> cellulitis </e> , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / <e> pneumonia </e> , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , <e> hyperuricemia </e> , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , <e> pulmonary hemorrhage </e> / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+
+###################################################################
+
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , COPD , <e> allergic rhinitis </e> , GERD , obesity , hyperlipidemia .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , COPD , allergic rhinitis , <e> GERD </e> , obesity , hyperlipidemia .
+Negation:False	 4. <e> Shortness of breath </e> :
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , COPD , allergic rhinitis , GERD , <e> obesity </e> , hyperlipidemia .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , <e> back pain </e> , COPD , allergic rhinitis , GERD , obesity , hyperlipidemia .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , <e> COPD </e> , allergic rhinitis , GERD , obesity , hyperlipidemia .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , <e> depression </e> , back pain , COPD , allergic rhinitis , GERD , obesity , hyperlipidemia .
+
+###################################################################
+
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , pneumonia , <e> pancreatitis </e> , catheter tip infection , anemia , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , pneumonia , pancreatitis , <e> catheter tip infection </e> , anemia , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , pneumonia , pancreatitis , catheter tip infection , <e> anemia </e> , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , <e> hepatic failure </e> , pneumonia , pancreatitis , catheter tip infection , anemia , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , <e> pneumonia </e> , pancreatitis , catheter tip infection , anemia , coma .
+
+###################################################################
+
+Negation:False	 If you have any bladder incontinence , bowel incontinence , worse numbness , any weakness , or any <e> other concerns </e> , call your doctor or return to the emergency department immediately .
+Negation:False	 If you have any bladder incontinence , <e> bowel incontinence </e> , worse numbness , any weakness , or any other concerns , call your doctor or return to the emergency department immediately .
+Negation:False	 If you have any bladder incontinence , bowel incontinence , <e> worse numbness </e> , any weakness , or any other concerns , call your doctor or return to the emergency department immediately .
+
+####################################################################
+
+Negation:False	 3. <e> Infectious disease </e> :
+Negation:False	 5. <e> BENIGN PROSTATIC HYPERTROPHY </e> .
+Negation:False	 4. <e> Left hemidiaphragmatic paralysis </e> , history of recurrent lung infections .
+Negation:False	 6. <e> Infectious Disease </e> :
+Negation:False	 4. <e> Chronic renal insufficiency </e> with azotemia .
+Negation:False	 4. <e> Hypothyroidism </e> .
+Negation:False	 5. <e> Mild dementia </e> .
+
+################################################
+
+Negation:False	 diabetes mellitus with diabetic renopathy , renovascular occlusive disease , with thrombosis of the right renal artery , hypertension , probably renal vascular , hypertensive cardiac disease with history of <e> congestive heart failure </e> , chronic renal insufficiency , coronary artery disease .
+Negation:False	 She continued to have no change in <e> her shortness of breath </e> or cardiac examination and was discharged home on 06/22/91 after completing her 5-FU and Cisplatin chemotherapy .
+Negation:False	 Pathology was negative for tumor and showed <e> peritubal and periovarian adhesions </e> .
+
+
+
+Negation:False	 Lung examination at that point showed good air entry , no wheezing , <e> coarse breath sounds throughout </e> .
+Negation:False	 Neurological examination revealed a patient who was intermittently alert , opening eyes to voice , following simple commands , but <e> without any speech </e> .
+Negation:False	 No family history of leukemia or <e> lymphoma </e> .
+Negation:False	 No family history of <e> leukemia </e> or lymphoma .
+
+
+Negation:False	 The patient the next two days did not notice any significant change in <e> her pain pattern </e> .
+
+Negation:False	 Hypothyroidism , arthritis , hypertension , hypercholesterolemia , <e> anemia </e> and asthma .
+Negation:False	 Hypothyroidism , arthritis , <e> hypertension </e> , hypercholesterolemia , anemia and asthma .
+Negation:False	 Hypothyroidism , arthritis , hypertension , <e> hypercholesterolemia </e> , anemia and asthma .
+
+
+Negation:False	 Has a history of <e> hypothyroidism </e> .
+Negation:False	 3. History of <e> ischemic bowel </e> .
+
+Negation:False	 2. If you have further chest pain , shortness of breath , fevers , or <e> other symptoms </e> which concern you , call your doctor .
+Negation:False	 2. If you have further chest pain , <e> shortness of breath </e> , fevers , or other symptoms which concern you , call your doctor .
+
+Negation:False	 The patient is an 81 year old female with a history of cerebrovascular accident , atrial fibrillation , hypothyroidism and dementia who is status post laparoscopic cholecystectomy one week ago who currently presents with a 4 day history of <e> no bowel movement </e> .
+Negation:False	 Neurology consultation on the evening of 9/7/93 revealed supple neck , <e> no response </e> to external rub .
+Negation:False	 Repeat neurological examination revealed no spontaneous movement and <e> no response </e> to voice or noxious stimulation .
+Negation:False	 There was <e> no gag </e> .
+Negation:False	 vomiting and dehydration , hypokalemia , <e> hyponatremia </e> , tonsillitis .
+Negation:False	 Repeat neurological examination revealed <e> no spontaneous movement </e> and no response to voice or noxious stimulation .
+Negation:False	 Tricuspid insufficiency , atrial fibrillation , congestive heart failure , <e> chronic obstructive pulmonary disease </e> , pulmonary hypertension .
+Negation:False	 There were no dose reductions for mucositis or <e> myelosuppression </e> .
+Negation:False	 There were no dose reductions for <e> mucositis </e> or myelosuppression .
+Negation:False	 Negative for congestive heart failure , positive for <e> occasional dyspnea </e> on exertion , negative for dyspnea and she has excellent exercise tolerance .
+Negation:False	 This is a patient who , over the past year , has had <e> no menses </e> and thought she had become menopausal .
+Negation:False	 There was no additional history of <e> breast , ovarian or uterine cancer </e> in her family .
+Negation:False	 take medication as directed , return for severe or significantly worsening symptoms , weakness or <e> loss of sensation </e> work restrictions as written on accompanying form .
+Negation:False	 There is a contusion over the right eye but no laceration , <e> abrasion of her left shoulder </e> , no flank discoloration , blanching papules over the knees bilaterally without central necrosis .
+Negation:False	 The cardiac exam showed point of maximal impulse was not displaced , regular rate and rhythm with normal S1 , S2 , no S3 or S4 , a grade II / VI systolic murmur was heard at the left upper sternal border without radiation , likely representing <e> a flow murmur </e> .
+
+

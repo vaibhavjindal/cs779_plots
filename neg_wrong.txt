@@ -1,0 +1,130 @@
+Negation:True	 Abdomen was soft , <e> nontender </e> , nondistended with positive bowel sounds .
+Negation:True	 Abdomen was soft , nontender , <e> nondistended </e> with positive bowel sounds .
+Negation:True	 She was <e> afebrile </e> .
+Negation:True	 <e> NKA </e>
+Negation:False	 diabetes mellitus with diabetic renopathy , renovascular occlusive disease , with thrombosis of the right renal artery , hypertension , probably renal vascular , hypertensive cardiac disease with history of <e> congestive heart failure </e> , chronic renal insufficiency , coronary artery disease .
+Negation:True	 He had right knee aspirations done in 1986 , otherwise , he does not suffer from <e> any other medical problems </e> .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , <e> protein calorie malnutrition </e> , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , <e> gastrointestinal hemorrhage </e> , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , <e> hypophosphatemia </e> .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , <e> orbital hemorrhage </e> , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , <e> hyperglycemia </e> , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , <e> renal insufficiency </e> , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , <e> hypopotassemia </e> , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , <e> chronic airway obstruction </e> , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , <e> atrial fibrillation </e> , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , <e> cellulitis </e> , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / <e> pneumonia </e> , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , pulmonary hemorrhage / pneumonia , hyperglycemia , renal insufficiency , <e> hyperuricemia </e> , hypophosphatemia .
+Negation:False	 Chronic myelomonocytic leukemia , without remission , atrial fibrillation , chronic airway obstruction , hypopotassemia , cellulitis , orbital hemorrhage , protein calorie malnutrition , gastrointestinal hemorrhage , <e> pulmonary hemorrhage </e> / pneumonia , hyperglycemia , renal insufficiency , hyperuricemia , hypophosphatemia .
+Negation:False	 She continued to have no change in <e> her shortness of breath </e> or cardiac examination and was discharged home on 06/22/91 after completing her 5-FU and Cisplatin chemotherapy .
+Negation:False	 Pathology was negative for tumor and showed <e> peritubal and periovarian adhesions </e> .
+Negation:True	 No <e> edema </e> or cyanosis .
+Negation:True	 Cardiology did not feel that <e> tamponade </e> at this time was a concern and that a tap need not be performed .
+Negation:True	 The patient was a robust white female in no acute distress , <e> afebrile </e> , blood pressure 165/80 .
+Negation:True	 <e> The neutropenia </e> resolved and he was felt to be in satisfactory condition on discharge on 10/20/95 .
+Negation:True	 He was feeling well and <e> afebrile </e> .
+Negation:True	 She was <e> afebrile </e> and had normal vital signs .
+Negation:True	 <e> NKA </e>
+Negation:True	 The abdomen was soft and <e> nontender </e> with no masses , no organomegaly .
+Negation:True	 Patient remained <e> afebrile </e> .
+Negation:True	 Soft , <e> non-distended </e> .
+Negation:True	 The cefotaxime was discontinued since no <e> infection </e> was identified .
+Negation:True	 No <e> abscess </e> or pseudocyst .
+Negation:True	 There was stranding along the pancreas , but no necrosis , abscess , or <e> pseudocyst </e> .
+Negation:True	 She occasionally feels chest twinges which are <e> nonradiating </e> but are sharp .
+Negation:True	 She has orthopnea as well but <e> noparoxysmal nocturnal dyspnea </e> .
+Negation:False	 3. <e> Infectious disease </e> :
+Negation:True	 <e> Anicteric </e> .
+Negation:True	 Soft , obese , nontender , <e> nondistended </e> , normal active bowel sounds .
+Negation:True	 A bone scan was also obtained to rule out <e> an occult hip fracture </e> which was negative .
+Negation:True	 Abdominal examination was soft , non-tender , <e> non-distended </e> , positive bowel sounds , no hepatosplenomegaly , no abdominal tenderness .
+Negation:True	 Abdominal examination was soft , <e> non-tender </e> , non-distended , positive bowel sounds , no hepatosplenomegaly , no abdominal tenderness .
+Negation:True	 She remained <e> afebrile </e> throughout her admission tolerating a regular diet by post-operative day two and was discharged on June 6 , 1993 with Percocet for pain .
+Negation:True	 Patient had a blood pressure of 128/72 , a pulse of 84 that was regular , and she was <e> afebrile </e> at 98.4 .
+Negation:True	 Soft and <e> non-tender </e> .
+Negation:True	 The patient was <e> afebrile </e> , vital signs were stable .
+Negation:True	 He continued to be <e> afebrile </e> and otherwise very stable .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , COPD , <e> allergic rhinitis </e> , GERD , obesity , hyperlipidemia .
+Negation:True	 The patient ruled out for <e> MI </e> by cardiac markers .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , COPD , allergic rhinitis , <e> GERD </e> , obesity , hyperlipidemia .
+Negation:False	 4. <e> Shortness of breath </e> :
+Negation:True	 Abdomen soft , <e> nontender </e> , nondistended .
+Negation:True	 Abdomen soft , nontender , <e> nondistended </e> .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , COPD , allergic rhinitis , GERD , <e> obesity </e> , hyperlipidemia .
+Negation:True	 She went with her sister &apos;s husband to La Community Hospital where she was given sublingual nitroglycerin with complete relief of <e> pain </e> .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , <e> back pain </e> , COPD , allergic rhinitis , GERD , obesity , hyperlipidemia .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , depression , back pain , <e> COPD </e> , allergic rhinitis , GERD , obesity , hyperlipidemia .
+Negation:False	 Insulin-dependent diabetes mellitus , hypertension , <e> depression </e> , back pain , COPD , allergic rhinitis , GERD , obesity , hyperlipidemia .
+Negation:True	 She arrived <e> pain </e> free .
+Negation:True	 Abdomen was soft , <e> non-tender </e> , bowel sounds present .
+Negation:True	 The patient was <e> afebrile </e> , heart rate 73 , blood pressure 158/53 , respiratory rate 16-20 , oxygen saturation 97% on three liters .
+Negation:False	 Lung examination at that point showed good air entry , no wheezing , <e> coarse breath sounds throughout </e> .
+Negation:False	 Neurological examination revealed a patient who was intermittently alert , opening eyes to voice , following simple commands , but <e> without any speech </e> .
+Negation:True	 Patient was aggressively diuresed with resolution of <e> symptoms </e> .
+Negation:True	 On admission was remarkable for an abdomen which was soft and <e> non-tender </e> .
+Negation:False	 No family history of leukemia or <e> lymphoma </e> .
+Negation:False	 No family history of <e> leukemia </e> or lymphoma .
+Negation:True	 <e> Sclerae anicteric </e> .
+Negation:True	 The patient remained <e> afebrile </e> until day +11 when he spiked and was started on ceftazidime .
+Negation:True	 Soft , <e> nontender </e> , without any masses and without any hepatosplenomegaly .
+Negation:False	 5. <e> BENIGN PROSTATIC HYPERTROPHY </e> .
+Negation:True	 Chest X-ray was consistent with an old chest X-ray on 08/08/92 showing a resolving left lower lobe and lingular infiltrate and resolution of <e> the right mid lung infiltrate </e> .
+Negation:True	 The abdomen was soft , <e> nontender </e> , nondistended .
+Negation:True	 The abdomen was soft , nontender , <e> nondistended </e> .
+Negation:False	 The patient the next two days did not notice any significant change in <e> her pain pattern </e> .
+Negation:True	 Soft , nondistended , <e> nontender </e> .
+Negation:False	 4. <e> Left hemidiaphragmatic paralysis </e> , history of recurrent lung infections .
+Negation:True	 Soft , <e> nondistended </e> , nontender .
+Negation:False	 Hypothyroidism , arthritis , hypertension , hypercholesterolemia , <e> anemia </e> and asthma .
+Negation:False	 Hypothyroidism , arthritis , <e> hypertension </e> , hypercholesterolemia , anemia and asthma .
+Negation:False	 Hypothyroidism , arthritis , hypertension , <e> hypercholesterolemia </e> , anemia and asthma .
+Negation:False	 6. <e> Infectious Disease </e> :
+Negation:True	 No <e> fevers </e> or chills , no vaginal discharge or bleeding .
+Negation:False	 Has a history of <e> hypothyroidism </e> .
+Negation:True	 <e> The patient &apos;s paraplegia </e> resolved by the morning of her second hospital day , and she maintained 5/5 motor strength in all groups .
+Negation:True	 She remained <e> afebrile </e> throughout her hospital course .
+Negation:False	 3. History of <e> ischemic bowel </e> .
+Negation:True	 He improved clinically with defervescence , decreased white blood cell count to 10,000 with resolution of <e> left shift </e> , and some decrease in abdominal distention on exam .
+Negation:False	 4. <e> Chronic renal insufficiency </e> with azotemia .
+Negation:False	 2. If you have further chest pain , shortness of breath , fevers , or <e> other symptoms </e> which concern you , call your doctor .
+Negation:False	 2. If you have further chest pain , <e> shortness of breath </e> , fevers , or other symptoms which concern you , call your doctor .
+Negation:False	 4. <e> Hypothyroidism </e> .
+Negation:False	 5. <e> Mild dementia </e> .
+Negation:False	 The patient is an 81 year old female with a history of cerebrovascular accident , atrial fibrillation , hypothyroidism and dementia who is status post laparoscopic cholecystectomy one week ago who currently presents with a 4 day history of <e> no bowel movement </e> .
+Negation:True	 She was <e> afebrile </e> with stable vital signs .
+Negation:False	 Neurology consultation on the evening of 9/7/93 revealed supple neck , <e> no response </e> to external rub .
+Negation:False	 Repeat neurological examination revealed no spontaneous movement and <e> no response </e> to voice or noxious stimulation .
+Negation:False	 There was <e> no gag </e> .
+Negation:False	 vomiting and dehydration , hypokalemia , <e> hyponatremia </e> , tonsillitis .
+Negation:False	 Repeat neurological examination revealed <e> no spontaneous movement </e> and no response to voice or noxious stimulation .
+Negation:False	 Tricuspid insufficiency , atrial fibrillation , congestive heart failure , <e> chronic obstructive pulmonary disease </e> , pulmonary hypertension .
+Negation:True	 No cultures were <e> positive </e> but the chest x-ray showed bilateral densities more on the left than the right compatible with aspiration pneumonia .
+Negation:True	 The patient was started on Clindamycin intravenous and Cefuroxime intravenous with clearing of <e> his fever </e> but persistence of cough , choking , and intermittently many coarse rales in his base with no clearing by x-ray .
+Negation:False	 There were no dose reductions for mucositis or <e> myelosuppression </e> .
+Negation:False	 There were no dose reductions for <e> mucositis </e> or myelosuppression .
+Negation:True	 The margins were free of <e> tumor </e> , but 10 out of 21 lymph nodes were positive for metastatic carcinoma .
+Negation:True	 No clubbing , cyanosis , or <e> edema of the extremities </e> .
+Negation:True	 She had <e> some slight headaches </e> which resolved with Tylenol , and the dizziness resolved as well .
+Negation:True	 HEENT - Normocephalic , <e> atraumatic </e> .
+Negation:False	 Negative for congestive heart failure , positive for <e> occasional dyspnea </e> on exertion , negative for dyspnea and she has excellent exercise tolerance .
+Negation:True	 She had some slight headaches which resolved with Tylenol , and <e> the dizziness </e> resolved as well .
+Negation:True	 Otherwise , her postoperative course was uneventful with gradual resolution of the passage of <e> blood per rectum </e> .
+Negation:False	 This is a patient who , over the past year , has had <e> no menses </e> and thought she had become menopausal .
+Negation:True	 She underwent a TAH-BSO which was <e> uncomplicated </e> .
+Negation:False	 There was no additional history of <e> breast , ovarian or uterine cancer </e> in her family .
+Negation:True	 Sclera were <e> anicteric </e> .
+Negation:True	 Abdomen was soft and <e> nontender </e> , without masses or hepatosplenomegaly .
+Negation:False	 take medication as directed , return for severe or significantly worsening symptoms , weakness or <e> loss of sensation </e> work restrictions as written on accompanying form .
+Negation:True	 The head , eyes , ears , nose , throat exam was normocephalic , with trauma as described , pupils were 2 mm bilaterally which were minimally reactive , fundi was not seen , conjunctivae without erythema , sclerae <e> anicteric </e> , positive corneal reflexes noted .
+Negation:False	 There is a contusion over the right eye but no laceration , <e> abrasion of her left shoulder </e> , no flank discoloration , blanching papules over the knees bilaterally without central necrosis .
+Negation:False	 The cardiac exam showed point of maximal impulse was not displaced , regular rate and rhythm with normal S1 , S2 , no S3 or S4 , a grade II / VI systolic murmur was heard at the left upper sternal border without radiation , likely representing <e> a flow murmur </e> .
+Negation:True	 The genitourinary exam showed normal penis with normal testicles which were <e> nontender </e> .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , pneumonia , <e> pancreatitis </e> , catheter tip infection , anemia , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , pneumonia , pancreatitis , <e> catheter tip infection </e> , anemia , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , pneumonia , pancreatitis , catheter tip infection , <e> anemia </e> , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , <e> hepatic failure </e> , pneumonia , pancreatitis , catheter tip infection , anemia , coma .
+Negation:False	 Cocaine intoxication , rhabdomyolysis , renal failure , disseminated intravascular coagulation , septic shock , hepatic failure , <e> pneumonia </e> , pancreatitis , catheter tip infection , anemia , coma .
+Negation:False	 If you have any bladder incontinence , bowel incontinence , worse numbness , any weakness , or any <e> other concerns </e> , call your doctor or return to the emergency department immediately .
+Negation:False	 If you have any bladder incontinence , <e> bowel incontinence </e> , worse numbness , any weakness , or any other concerns , call your doctor or return to the emergency department immediately .
+Negation:False	 If you have any bladder incontinence , bowel incontinence , <e> worse numbness </e> , any weakness , or any other concerns , call your doctor or return to the emergency department immediately .
